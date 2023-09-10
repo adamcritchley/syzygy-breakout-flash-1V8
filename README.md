@@ -9,9 +9,9 @@ The board has silkscreen text with corresponding pins for Avnet's [ZUBoard 1CG](
 
 # BOM
 You can find datasheets for each component in the datasheets directory. All of the components can be bought from Mouser or Digikey. 
-Epson SG5032VAN
-Texas Instrument TLV1117LV
-Aries 28-6554-11
+*Epson SG5032VAN
+*Texas Instrument TLV1117LV
+*Aries 28-6554-11
 
 # Future Work
 I consider this board feature complete. As I find/create IP and software that works with this board then I'll update this README with tutorials on how to use them. Feel free to create a GitHub issue detailing your own success story or use case.
